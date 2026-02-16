@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Nima Haghighi
 
-<!--
-**N-Haghighi/N-Haghighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineer transitioning into Data Analytics and Applied Machine Learning.
 
-Here are some ideas to get you started:
+🔍 Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python for Data Processing
+
+Pandas & NumPy
+
+Behavioral & Engagement Analytics
+
+KPI-driven Analysis
+
+Structured Problem Solving
+
+📊 Recent Project
+
+User Behavioral Analysis – Messaging App Data
+
+Processed 1,500+ event records
+
+Built engagement & retention metrics
+
+Identified peak usage patterns
+
+Analyzed activity concentration
+
+🔗 Project Repository:
+https://github.com/N-Haghighi/user_events_large_analysis
+
+🚀 Currently Learning
+
+Advanced Pandas
+
+Statistical Foundations for Data Science
+
+Applied Machine Learning
+
+📫 Contact
+
+LinkedIn: (www.linkedin.com/in/nima-haghighi-1aa080275)
+E-mail: Nimahaghighiwork@gmail.com
